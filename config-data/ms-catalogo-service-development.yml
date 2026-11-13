@@ -17,5 +17,5 @@ spring:
   datasource:
     driver-class-name: org.postgresql.Driver
     url: ${DB_URL:jdbc:postgresql://localhost:5432/ms_catalogo}
-    username: ${DB_USERNAME:postgres}
-    password: ${DB_PASSWORD:123456}
+    username: postgres
+    password: david123
